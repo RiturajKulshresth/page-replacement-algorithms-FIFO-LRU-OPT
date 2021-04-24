@@ -11,8 +11,6 @@ Least Recently Used Page replacement Algorithm (LRU)
 
 Also for the FIFO it finds out Belady's Anomaly
 
-
-
 Here is the input output list for the first question:
 
 
@@ -30,18 +28,29 @@ Enter the reference string: 321032432104
 Faults using FIFO: 9
 
 Faults using LRU: 10
-Faults using OPT: 5
 
+Faults using OPT: 5
 
 Enter the number of frames allocated: 4
+
 Enter the reference string: 321032432104
+
 Faults using FIFO: 10
+
 Faults using LRU: 8
+
 Faults using OPT: 5
+
 Enter the number of frames allocated: 5
+
 Enter the reference string: 321032432104
+
 Faults using FIFO: 5
+
 Faults using LRU: 5
+
 Faults using OPT: 5
+
 Belady Anomaly detected
+
 (base) netrunner@dew:~/Desktop/sem 7/ass6$ ^C
